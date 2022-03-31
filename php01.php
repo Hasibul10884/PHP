@@ -41,4 +41,10 @@ $number --;
 $number --;
 echo $number;
 echo "<br>";
- 
+$number = 12;
+$number ++;
+$number ++;
+$number --;
+$number --;
+echo $number;
+echo "<br>";
