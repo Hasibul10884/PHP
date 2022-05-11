@@ -108,3 +108,5 @@ echo $number;
 echo "<br>";
 $number = 12;
 $number ++;
+$number ++;
+$number --;
